@@ -1,3 +1,1 @@
 - Olá, eu sou Laissa Kemilly!😸
-- Tenho interesse em Segurança da Informação, atualmente estou aprendendo os fundamentos de CyberSec.
-- Tenho bastante interesse também em programação, e estou aprendendo Lógica de Programação, Programação Orientada a Objetos e Algoritmos.
